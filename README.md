@@ -132,6 +132,8 @@ Zainstaluj bibliotekę BCrypt oraz skonfiguruj bazę danych.
         <artifactId>jbcrypt</artifactId>
         <version>0.4</version>
     </dependency>
+
+    
     <dependency>
         <groupId>com.mysql</groupId>
         <artifactId>mysql-connector-j</artifactId>
